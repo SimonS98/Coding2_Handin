@@ -6,3 +6,6 @@ https://simonsheng.notion.site/Music-Visualiser-with-OpenFramework-0f803b8673ba4
 
 
 <img src="https://github.com/SimonS98/Coding2_Handin/blob/main/showcase_beats.gif" width="800"  />
+
+
+<img src="https://github.com/SimonS98/Coding2_Handin/blob/main/blackGif.gif" width="800"  />
