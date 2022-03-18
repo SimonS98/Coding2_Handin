@@ -76,7 +76,7 @@ void ofApp::draw(){
     
     
     //ofBackground( 255, 255, 255 );
-    ofBackground( 0, 0, 0 );
+    //ofBackground( 0, 0, 0 );
     //ofBackground( 255-rtime, 255-gtime, 255-btime );
 
 
@@ -111,9 +111,13 @@ void ofApp::keyPressed(int key){
     switch (key) {
         case '1':
             music1.play();
+            ofBackground( 255, 255, 255 );
+
             break;
         case '2':
             music2.play();
+            ofBackground( 0, 0, 0 );
+
             break;
         case 'p':
             music1.setPaused(true);
